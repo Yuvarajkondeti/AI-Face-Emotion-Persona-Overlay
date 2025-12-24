@@ -1,0 +1,2 @@
+AI Face Emotion & Persona Overlay is a real-time computer vision application that detects human facial emotions through a webcam and dynamically overlays a corresponding persona-based visual effect on the user’s face.
+The system uses Artificial Intelligence and OpenCV to analyze facial expressions such as happy, sad, angry, surprised, neutral, and more, and maps each detected emotion to a predefined persona (e.g., confident, calm, energetic). This creates an interactive and visually engaging AI-driven experience.
